@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Game",
+    "\\src\\containers",
+    "\\src\\containers\\Game",
+    "\\src\\containers\\Home",
+    "\\src\\containers\\Navigation",
+    "\\src\\styles",
+    "\\src\\styles\\Game",
+    "\\src\\styles\\UI"
+  ],
+  "SelectedNode": "\\src\\components\\Game\\BlockOrderVariants.js",
+  "PreviewInSolutionExplorer": false
+}
